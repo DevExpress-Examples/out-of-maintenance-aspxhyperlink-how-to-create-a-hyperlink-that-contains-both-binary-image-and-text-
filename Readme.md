@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
-* [ImageLink.ascx](./CS/ImageLink.ascx) (VB: [ImageLink.ascx.vb](./VB/ImageLink.ascx.vb))
+* [ImageLink.ascx](./CS/ImageLink.ascx) (VB: [ImageLink.ascx](./VB/ImageLink.ascx))
 * [ImageLink.ascx.cs](./CS/ImageLink.ascx.cs) (VB: [ImageLink.ascx.vb](./VB/ImageLink.ascx.vb))
 <!-- default file list end -->
 # ASPxHyperLink - How to create a hyperlink that contains both Binary image and text elements

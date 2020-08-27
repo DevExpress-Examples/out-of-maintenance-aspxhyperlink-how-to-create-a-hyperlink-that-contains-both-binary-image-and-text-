@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="vb" AutoEventWireup="true" CodeFile="ImageLink.ascx.vb" Inherits="ImageLink" %>
-<%@ Register assembly="DevExpress.Web.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxEditors" tagprefix="dx" %>
+<%@ Register assembly="DevExpress.Web.v14.1, Version=14.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web.ASPxEditors" tagprefix="dx" %>
 <style>
 .hyperlink_ff img {
     padding-bottom:2px;

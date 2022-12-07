@@ -1,5 +1,5 @@
-﻿using DevExpress.Web.ASPxClasses.Internal;
-using DevExpress.Web.ASPxEditors;
+﻿using DevExpress.Web.Internal;
+using DevExpress.Web;
 using System;
 using System.Collections.Generic;
 using System.Linq;

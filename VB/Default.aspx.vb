@@ -1,5 +1,5 @@
-﻿Imports DevExpress.Web.ASPxClasses.Internal
-Imports DevExpress.Web.ASPxEditors
+﻿Imports DevExpress.Web.Internal
+Imports DevExpress.Web
 Imports System
 Imports System.Collections.Generic
 Imports System.Linq
